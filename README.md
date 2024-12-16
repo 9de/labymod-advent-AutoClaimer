@@ -1,4 +1,4 @@
-# 🎄 LabyMod Advent Tracker
+# LabyMod Advent Tracker
 
 [![Python](https://img.shields.io/badge/python-v3.7+-blue.svg)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
